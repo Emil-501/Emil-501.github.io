@@ -1,0 +1,75 @@
+{
+    "content":[
+        {
+            "year":"2017",
+            "paper":[
+                "张栋, 郭俊杰, 吴春明. 层次型多中心的SDN控制器部署[J]. 电子学报, 2017, 45(3):680-686.",
+                "张栋, 薛锦. 命名数据移动自组织网络节能转发策略[J]. 福州大学学报, 2017, 45(1):63-68.",
+                "郭俊杰, 张栋. 面向OpenFlow的内容分发网络视频流传输策略[J]. 福州大学学报, 2017, 45(1):58-62.",
+                "张栋, 陈凯, 颜建英,朱丹红, 叶东毅. 基于隐马尔科夫模型的胎盘植入产前诊断方法[J]. 模式识别与人工智能, 2017, 30(4):353-358."
+            ]
+        },
+        {
+            "year":"2016",
+            "paper":[
+                "Lin, Xin An, and D. Zhang. Kemy: An AQM generator based on machine learning[C]. International Conference on Communications and NETWORKING in China IEEE, 2016:556-561.",
+                "Lin,Qingxiang, and D. Zhang. Traffic-aware compatible controller deployment[C]. International Conference on Communications and NETWORKING in China IEEE, 2016:847-852.",
+                "张栋, 苏晓强. 开放模式的软件工程实践教学探索[J]. 计算机教育, 2016, No.259(7):149-153."
+            ]
+        },
+        {
+            "year":"2015",
+            "paper":[
+                "潘晓晓, 叶东毅, 颜建英,张栋,杨丹林. 面向胎盘植入产前诊断的医学语义特征提取算法[J]. 模式识别与人工智能, 2015, 28(6):481-489.",
+                "王秀, 谢志成, 张栋. 一种基于特征差异度和SVM投票机制的数字音乐语音情感识别算法[J]. 福州大学学报（自然科学版）, 2015(4):460-465."
+            ]
+        },
+        {
+            "year":"2014",
+            "paper":[
+                "薛锦, 张栋, 唐滨. 命名数据网络中主动探测的转发策略研究[J]. 计算机工程与应用, 2014, 50(18):89-93.",
+                "ZHANG Dong,GAO Long. Virtual Network Mapping Through Locality-aware Topological Potential and Influence Node Ranking[J]. Chinese Journal of Electronics, 2014, 23(CJE-1): 61-64.(电子学报英文版)",
+                "谢志成, 张栋. 基于粒子群优化的哼唱语音端点检测算法[J]. 福州大学学报（自然科学版）, 2014, 42(2):195-199.",
+                "杨晶菁, 张栋, 余春艳. 以应用为中心的嵌入式系统教学[J]. 计算机教育, 2014(15):75-78."
+            ]
+        },
+        {
+            "year":"2013",
+            "paper":[
+                "ZHANG Dong, Chen Xi.RNET: A Reconfigurable Network Emulation Testbed Based on Click Modular Router[J]. Journal of Applied Sciences.2013, 13(22), 5003-5011.",
+                "张栋, 高龙. 基于跨层协同的MANET网络拥塞控制算法仿真研究[J]. 云南大学学报自然科学版, 2013, 35(1):26-30.",
+                "张栋, 余春艳. 基于校企合作的嵌入式复合型人才培养[J]. 计算机教育, 2013(22):16-18."
+            ]
+        },
+        {
+            "year":"2012",
+            "paper":[
+                "张栋, 高龙. 基于双向搜索的虚拟网映射算法[J]. 福州大学学报, 2012(5):572-577.",
+                "Zhang Dong. Virtual A study on virtual network decomposing mapping based on network balance, Chinese Journal of Electronics, 4th International Conference on Computational and Information Sciences, IEEE 2012, Chongqing, P.R. China, 2012.8.17-8.19"
+            ]
+        },
+        {
+            "year":"2011",
+            "paper":[
+                "齐宁, 王保进, 汪斌强, 张栋. 均衡虚拟网构建算法研究[J]. 电子与信息学报. 2011, 33(6), 35-40."
+            ]
+        },
+        {
+            "year":"2010",
+            "paper":[
+                "吴春明, 王保进, 陈均华, 姜明, 张栋. 一种基于游标的多径流量分割算法[J]. 电子学报, 2010, 38(11), 88-92.",
+                "黄磊, 吴春明, 姜明, 张栋. REDu:一种新的识别并惩罚非适应流的主动式队列管理算法[J]. 电子学报, 2010, 38(8), 33-36.",
+                "张栋, 吴春明, 姜明, 熊伟. 大规模服务覆盖网拓扑设计[J]. 电子与信息学报. 2010, 32(4), 83-87.",
+                "张伟, 吴春明, 姜明, 张栋. 一体化承载网络的互斥问题研究[J]. 计算机应用研究. 2010, 27(3), 354-356."
+            ]
+        },
+        {
+            "year":"2009",
+            "paper":[
+                "吴春明, 张栋, 姜明. 面向服务提供的一体化承载网络体系结构的探讨[J]. 信息工程大学学报, 2009, 10(1), 27-31.",
+                "Zhang Dong, Wu Chunming, Xiong Wei, Jiang Ming, Yu jing. Research on virtual network design based on virtual router, 1st International Conference on Future Information Networks, IEEE 2009. Beijing, P.R. China, 2009.10.14-10.17"
+            ]
+        }
+    ]
+}
+

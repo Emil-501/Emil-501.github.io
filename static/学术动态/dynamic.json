@@ -1,0 +1,29 @@
+{
+    "content":[
+        {
+            "year":"2018",
+            "content":[
+                "<a href='./动态内容/2018年/P4 2018 中国峰会.html' style='text-decoration:none;'>P4 2018 中国峰会</a>",
+                "<a href='./动态内容/2018年/GNTC全球网络技术大会.html' style='text-decoration:none;'>GNTC全球网络技术大会</a>",
+                "<a href='./动态内容/2018年/第一届“先进计算与防御技术”学术会议.html' style='text-decoration:none;'>第一届“先进计算与防御技术”学术会议</a>",
+                "<a href='./动态内容/2018年/2018中国高校计算机大赛之网络技术挑战赛.html' style='text-decoration:none;'>2018中国高校计算机大赛之网络技术挑战赛</a>",
+                "<a href='./动态内容/2018年/第五届全国高校SDN应用创新开发大赛.html' style='text-decoration:none;'>第五届全国高校SDN应用创新开发大赛</a>",
+                "<a href='./动态内容/2018年/锐捷SDN培训福州专场.html' style='text-decoration:none;'>锐捷SDN培训福州专场</a>"
+            ]
+        },
+        {
+            "year":"2017",
+            "content":[
+                "<a href='./动态内容/2017年/P4 2017中国峰会.html' style='text-decoration:none;'>P4 2017中国峰会</a>",
+                "<a href='./动态内容/2017年/江苏省高等职业院校技能大赛 出题、赛题发布、设备部署.html' style='text-decoration:none;'>江苏省高等职业院校技能大赛 出题、赛题发布、设备部署</a>"
+            ]
+        },
+        {
+            "year":"2016",
+            "content":[
+                "<a href='./动态内容/2016年/GNTC全球网络技术大会.html' style='text-decoration:none;'>GNTC全球网络技术大会</a>",
+                "<a href='./动态内容/2016年/深圳 P4技术交流会.html' style='text-decoration:none;'>深圳 P4技术交流会</a>"
+            ]
+        }
+    ]
+}
