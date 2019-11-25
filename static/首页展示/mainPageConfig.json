@@ -14,11 +14,10 @@
     ],
 
     "slider":[
-        "./slider/4.jpg",
-        "./slider/3.jpg",
         "./slider/0.jpg",
-        "./slider/1.png",
-        "./slider/2.png"
+        "./slider/1.jpg",
+        "./slider/2.png",
+        "./slider/3.png"
     ],
     
     "footerContent":[
