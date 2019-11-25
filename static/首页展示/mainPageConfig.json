@@ -14,8 +14,8 @@
     ],
 
     "slider":[
-        "./slider/0.jpg",
         "./slider/3.jpg",
+        "./slider/0.jpg",
         "./slider/1.png",
         "./slider/2.png"
     ],
